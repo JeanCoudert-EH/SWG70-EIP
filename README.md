@@ -1,4 +1,4 @@
 # hello-world
-Test of GitHub
+Test GitHub
 
 Ceci est simplement une branche du Master

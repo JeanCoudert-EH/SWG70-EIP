@@ -1,4 +1,5 @@
-# hello-world
-Test GitHub
+# SWG70-EIP
+Documentation of SWG70-EIP
 
-Ceci est simplement une branche du Master
+1) Test Plan
+2) Pdf P+F
